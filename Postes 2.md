@@ -1,27 +1,6 @@
 # posttes-2
 Maaf kak saya gak pake phyton karena laptop rusak
 
-#Nama   :Muhammad Novan Saputra
-#Nim    :2109106032
-#kelas  :A
-#jurusan:Informatika
-#Tahun  :2021
-
-#membuat list kosong Biodata Mahasiswa
-Nama=[]
-Nim=[]
-Kelas=[]
-Jurusan=[]
-Berat_badan=[]
-Tinggi_badan=[]
-#Fungsi append untuk menambahkan data ke dalam LIST
-nama.append(str(input("Nama Lengkap : ")))
-nim.append(int(input("Nim : ")))
-kelas.append(str(input("Kelas : ")))
-jurusan.appemd(str(input("Jurusan : ")))
-berat_badan.append(float(input("Berat Badan (Kg): ")))
-tinggi_badan.append(int(input("Tinggi Badan (cm): ")))
-
 Konversi suhu
 
 #Nama   : Muhammad Novan Saputra
@@ -44,3 +23,25 @@ conv_celcius = kelvin - 273
 reamur = int(input("Masukan Skala reamur: "))
     conv_celcius= 5 * reamur // 4
     print(c'hasil dari Konversi Suhu {reamur} f adalah {conv_celcius} celcius')
+
+Program sederhana
+#Nama   :Muhammad Novan Saputra
+#Nim    :2109106032
+#kelas  :A
+#jurusan:Informatika
+#Tahun  :2021
+
+#membuat list kosong Biodata Mahasiswa
+Nama=[]
+Nim=[]
+Kelas=[]
+Jurusan=[]
+Berat_badan=[]
+Tinggi_badan=[]
+#Fungsi append untuk menambahkan data ke dalam LIST
+nama.append(str(input("Nama Lengkap : ")))
+nim.append(int(input("Nim : ")))
+kelas.append(str(input("Kelas : ")))
+jurusan.appemd(str(input("Jurusan : ")))
+berat_badan.append(float(input("Berat Badan (Kg): ")))
+tinggi_badan.append(int(input("Tinggi Badan (cm): ")))
